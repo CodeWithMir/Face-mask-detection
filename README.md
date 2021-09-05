@@ -119,9 +119,8 @@ after open the jupyter notebook
 ## Now Run the Final Code
 
 Download the final project of face mask detection.ipynb file from repositoary or [click here](https://github.com/CodeWithMir/Face-mask-detection/blob/main/final%20project%20of%20face%20mask%20detection.ipynb)
-    Run the code the project is ready 
 
-[testing](https://www.anaconda.com/products/individual#Downloads) 
+    Run the code the project is ready 
 
  **For any problem during run the program cobtact me or [click here](https://www.linkedin.com/in/mir-jasimuddin-4a35131a0/)**
 
