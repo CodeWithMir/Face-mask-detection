@@ -122,7 +122,7 @@ Download the final project of face mask detection.ipynb file from repositoary or
 
     Run the code the project is ready 
 
- **For any problem during run the program cobtact me or [click here](https://www.linkedin.com/in/mir-jasimuddin-4a35131a0/)**
+ **For any problem during run the program contact me or [click here](https://www.linkedin.com/in/mir-jasimuddin-4a35131a0/)**
 
 ##            Thank You 
       
