@@ -13,7 +13,7 @@ Today it has become mandatory for all the citizens to wear a face mask to protec
      :Load images using Python or any other Programming
      :Convert images into aaray
      :After convertion of the images we can perform any algorithm on array we have
-    ![gif](https://cdn.dribbble.com/users/1116528/screenshots/6783134/_3.gif)
+    ![gif](https://github.com/CodeWithMir/important-image-for-project/blob/main/face%20detection.gif)
 
   
 
