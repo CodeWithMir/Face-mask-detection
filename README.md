@@ -65,6 +65,6 @@ As shown in the above representation of a digital coloured image, each channel o
 **Anaconda Installers**
 
     click the given link and download 
-    https://www.anaconda.com/products/individual#Downloads
+    [Documentation](https://www.anaconda.com/products/individual#Downloads) 
 
     
