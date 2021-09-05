@@ -59,3 +59,12 @@ When we take a digital image, it is stored as a combination of pixels. Each pixe
     A digital image represented as pixels and channels. [2]
 
 As shown in the above representation of a digital coloured image, each channel of each pixel has a value between 0 and 255. Each of these values represented in binary before a computer can understand the image.
+
+## Required applications
+
+**Anaconda Installers**
+
+    click the given link and download 
+    https://www.anaconda.com/products/individual#Downloads
+
+    
