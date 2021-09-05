@@ -13,7 +13,7 @@ Today it has become mandatory for all the citizens to wear a face mask to protec
      :Load images using Python or any other Programming
      :Convert images into aaray
      :After convertion of the images we can perform any algorithm on array we have
-    ![image processing](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fface-detection-for-beginners-e58e8f21aad9&psig=AOvVaw3p_z7vppWQt4OSWQtPVhF-&ust=1630912470955000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDOiMmk5_ICFQAAAAAdAAAAABAD)
+    ![image processing](https://files.realpython.com/media/face-detection-abba.ea2dcc6d3bda.jpg)
 
   
 
