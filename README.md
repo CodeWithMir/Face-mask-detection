@@ -67,4 +67,63 @@ As shown in the above representation of a digital coloured image, each channel o
 click the given link and download 
 [Anaconda_Installers](https://www.anaconda.com/products/individual#Downloads) 
 
+**Jupyter Notebook**
+
+*already install under Anaconda Installers 
+
+
+## How to use
+**Install all the libraries and modules required**
+
+                          
+                        **Open Jupyter Notebook**
+                        1. !pip install opencv-Python
+                        2. !pip install matplotlib
+                        3. !pip install sklearn
+                        4. !pip install numpy
+                        *****note that in case of showing in jupyter notebook 
+                        that the libraries Requirement already satisfied: then 
+                        the libraries already install  
+**Create DataSet**
+   
+1st Download the "haarcascade_frontalface_default" file or [click here](https://github.com/CodeWithMir/Face-mask-detection/blob/main/haarcascade_frontalface_default.xml)
+and copy the path of the file and pest in Creat_Dataset program instaed of my path "Documents/projects/face mask detection/haarcascade_frontalface_default.xml"
+after open the jupyter notebook
+
+2nd Download the Creat_DtaSet file from the repositoary or [click here](https://github.com/CodeWithMir/Face-mask-detection/blob/main/Creat_DtaSet%20(1).ipynb)
     
+    1. Now open Jupyter Notebook 
+
+    2. Copy & pest the Creat_DtaSet program
+
+    3. Run the 1st In[1]
+    
+    4. A camera will open in a new tab (in case off not opening the camera change the program in 5th line of the in[1])
+       when camera is not opening change the 5th line 
+       **capture = cv2.VideoCapture(0) to capture = cv2.VideoCapture(1)**
+    
+    5. Before run the program ready with no mask face for 1st data model
+       after taking 200 set of image the program will automatically break 
+    
+    
+    6. Then run the 1st In[2] to save the data name as without_mask.npy 
+
+    7. Now run the 1st In[1] again
+
+    8. Now ready with a mask face before run the program 
+
+    9. After automatically break  run the 2nd In[2] to save the data name as witho_mask.npy 
+          
+
+
+## Now Run the Final Code
+
+Download the final project of face mask detection.ipynb file from repositoary or [click here](https://github.com/CodeWithMir/Face-mask-detection/blob/main/final%20project%20of%20face%20mask%20detection.ipynb)
+    Run the code the project is ready 
+
+[testing](https://www.anaconda.com/products/individual#Downloads) 
+
+ **For any problem during run the program cobtact me or [click here](https://www.linkedin.com/in/mir-jasimuddin-4a35131a0/)**
+
+##            Thank You 
+      
